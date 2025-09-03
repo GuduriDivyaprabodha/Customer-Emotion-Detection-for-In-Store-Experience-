@@ -89,7 +89,27 @@ When code is added to this repository:
    ```
 
 ---
+📷 Results & Visualizations
+Model Training Performance
 
+
+Training/validation accuracy over epochs.
+
+
+Training/validation loss over epochs.
+
+Confusion Matrices
+
+
+Confusion matrix showing classification performance across emotion classes.
+
+
+Confusion matrix for the FaceNet-CNN model.
+
+ROC Curves
+
+
+Receiver Operating Characteristic curve for multi-class classification.
 ## Documents Included
 
 All thesis materials are included in **PDF** and **DOCX** format inside the `/thesis` directory.
