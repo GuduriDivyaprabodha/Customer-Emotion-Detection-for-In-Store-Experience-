@@ -105,8 +105,8 @@ All thesis materials are included in **PDF** and **DOCX** format inside the `/th
 If you use this work in your research, please cite:
 
 ```
-<Your Full Name>, "Customer Emotion Detection for In-Store Experience," MSc Thesis,
-<Institution Name>, 2025.
+DivyaPrabodha Guduri, "Customer Emotion Detection for In-Store Experience," MSc Thesis,
+Dublin Business School, 2025.
 ```
 
 ---
